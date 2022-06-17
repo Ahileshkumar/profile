@@ -1,0 +1,143 @@
+
+body{
+    padding: 0;
+    margin: 0;
+}
+.wrapper{
+    display: flex;
+    border-right: 20px black solid;
+}
+.first{
+    background-color: #31313183;
+    width: 35%;
+    height: 800px;
+    border: 4px solid black;
+    border-right: 8px solid black;
+
+}
+.second{
+    background-color: #73564b;
+    width: 75%;
+    height: 800px;
+    border: 4px black solid;
+    margin-left: 20px;
+}
+.photo{
+    margin-left: 40px;
+    margin-top: 15px;
+}
+img{
+    border-image: 2px black;
+    border-radius: 10px;
+}
+.photo h2{
+    font-size: large;
+    color: black;
+    margin: auto;
+}
+.photo h4{
+    color: black;
+    margin-left: 85px;
+    margin-top: 7px;
+}
+.skill{
+    line-height: 20px;
+}
+.language{
+    line-height: 25px;
+}
+.hobbies{
+    line-height: 25px;
+}
+.objectives{
+    background-color: rgb(15, 15, 14);
+    border-radius: 8px;
+    text-align: center;
+    color: gray;
+    width: 80%;
+    margin: auto;
+    padding: 8px;
+    margin-top: 20px;
+}
+.qualification{
+    background-color: black;
+    color: gray;
+    padding: 10px;
+    margin: auto;
+    width: 75%;
+    border-radius: 12px;
+}
+.qualification h2{
+    font-size: 22px;
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+.interest{
+    background-color: black;
+    width: 50%;
+    color: aliceblue;
+    margin: auto;
+    border-radius: 12px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+
+}
+.interest h2{
+    text-align: center;
+    text-decoration: underline;
+}
+.foot{
+    background-color: black;
+    width: 95%;
+    height: 110px;
+    margin: auto;
+    border-radius: 12px;
+}
+.foot{
+    display: flex;
+}
+.mobile{
+    color: aliceblue;
+    margin-left: 12px;
+
+}
+.mobile img{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.mobile h4{
+    margin-bottom: 7px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+}
+.email{
+    color: aliceblue;
+    margin-left: 70px;
+}
+.email img{
+    margin-top: 10px;
+    margin-left: 70px;
+}
+.email h4{
+    margin-bottom: 7px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 11px;
+    margin-left: 30px;
+}
+.linked{
+    color: aliceblue;
+    margin-left: 60px;
+}
+.linked img{
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
+.linked h4{
+    margin-bottom: 7px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 11px;
+    margin-left: 50px;
+}
